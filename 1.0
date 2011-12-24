@@ -31,3 +31,4 @@ output = bluebream.ini
 recipe = collective.recipe.template
 url = http://dist.aclark.net/build/bluebream/1.0/bluebream.zcml.in
 output = bluebream.zcml
+
