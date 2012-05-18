@@ -19,16 +19,16 @@ programs =
 
 [conf]
 recipe = collective.recipe.template
-url = http://dist.aclark.net/build/bluebream/1.0/zope.conf.in
+url = http://pythonpackages.com/buildout/bluebream/conf/zope.conf.in
 output = zope.conf
 
 [ini]
 recipe = collective.recipe.template
-url = http://dist.aclark.net/build/bluebream/1.0/bluebream.ini.in
+url = http://pythonpackages.com/buildout/bluebream/conf/bluebream.ini.in
 output = bluebream.ini
 
 [zcml]
 recipe = collective.recipe.template
-url = http://dist.aclark.net/build/bluebream/1.0/bluebream.zcml.in
+url = http://pythonpackages.com/buildout/bluebream/conf/bluebream.zcml.in
 output = bluebream.zcml
 
