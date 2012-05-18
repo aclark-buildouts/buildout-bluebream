@@ -31,4 +31,3 @@ output = bluebream.ini
 recipe = collective.recipe.template
 url = http://pythonpackages.com/buildout/bluebream/conf/bluebream.zcml.in
 output = bluebream.zcml
-
