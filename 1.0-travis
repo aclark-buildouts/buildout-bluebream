@@ -1,0 +1,5 @@
+[buildout]
+extends = 1.0
+
+[versions]
+distribute = 0.6.24
